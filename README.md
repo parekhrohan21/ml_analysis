@@ -8,3 +8,6 @@ Reference link https://amankharwal.medium.com/20-machine-learning-projects-for-p
 
 For the K means first we are doing the elbow 
 Next will be the implementation of K means clustering
+
+I have added the first couple of plots 
+need to do the next ones
