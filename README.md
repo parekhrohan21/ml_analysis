@@ -11,3 +11,5 @@ Next will be the implementation of K means clustering
 
 I have added the first couple of plots 
 need to do the next ones
+
+THere is line plot and cluster plot made to understand the Kmeans value
