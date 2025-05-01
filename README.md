@@ -14,3 +14,5 @@ need to do the next ones
 
 There is line plot and cluster plot made to understand the Kmeans value.
 Now trying the regression value
+
+Need to solve the regression line lot then will understand from the inut value if there is intent based shopping
