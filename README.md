@@ -17,4 +17,4 @@ THe K means cluster needs to be fixed with the second means
 =======
 
 Need to solve the regression line lot then will understand from the inut value if there is intent based shopping
->>>>>>> 6fe70bc18ec38d2abca88739ffa4ae609a748b79
+
