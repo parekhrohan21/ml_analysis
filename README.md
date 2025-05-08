@@ -56,9 +56,9 @@ To determine an appropriate number of clusters for the K-Means algorithm, the El
 * **Description**: This line graph plots the WCSS (y-axis) against the Number of Clusters (x-axis, ranging from 1 to 10). The "elbow" point on the graph suggests an optimal number of clusters where adding more clusters does not significantly reduce WCSS. Based on the typical shape of an elbow method plot, the elbow appears around 2 or 3 clusters.
 * **Image**:
 
-    ```
+    <!-- ```
     ![Elbow Method Plot](https://storage.googleapis.com/generativeai-downloads/images/d86d7094.png)
-    ```
+    ``` -->
 
 ### 2. Cluster Visualization
 
@@ -78,9 +78,9 @@ The data is then clustered into 3 groups using K-Means with the same parameters 
     The plot helps visualize the separation and grouping of customers based on the selected features.
 * **Image**:
 
-    ```
+    <!-- ```
     ![Customer Clusters Plot](https://storage.googleapis.com/generativeai-downloads/images/0dffff46.png)
-    ```
+    ``` -->
 
 ## Model Evaluation
 
